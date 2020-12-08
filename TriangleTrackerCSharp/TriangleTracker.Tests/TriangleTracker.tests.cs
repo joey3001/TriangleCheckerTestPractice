@@ -4,13 +4,20 @@ using TriangleTracker;
 namespace TriangleTracker.Tests
 {
   [TestClass]
-  public class ClassNameTests
+  public class TriangleTests
   {
     [TestMethod]
-    public void NameOfMethodWeAreTesting_DescriptionOfBehavior_ExpectedReturnValue()
+    public void TriangleCheck_IsTriangleEqualateral_True()
     {
-    // any necessary logic to prep for test; instantiating new classes, etc.
-    // Assert.AreEqual(EXPECTED RESULT, CODE TO TEST);
+      Triangle testTriangle = new Triangle(2,2,2);
+      Assert.AreEqual("Equilateral", testTriangle.TriangleCheck());
+    }
+
+    [TestMethod]
+    public void TriangleCheck_IsTriangleIsoscoles_True()
+    {
+      Triangle testTriangle = new Triangle(1,2,2);
+      Assert.AreEqual("Isoscoles", testTriangle.TriangleCheck());
     }
   }
 }
