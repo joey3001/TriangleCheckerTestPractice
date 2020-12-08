@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\triangletracker\\TriangleTracker.csproj": {}
+    "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\TriangleTracker\\TriangleTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\triangletracker\\TriangleTracker.csproj": {
+    "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\TriangleTracker\\TriangleTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\triangletracker\\TriangleTracker.csproj",
+        "projectUniqueName": "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\TriangleTracker\\TriangleTracker.csproj",
         "projectName": "TriangleTracker",
-        "projectPath": "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\triangletracker\\TriangleTracker.csproj",
+        "projectPath": "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\TriangleTracker\\TriangleTracker.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\triangletracker\\obj\\",
+        "outputPath": "C:\\Users\\josep\\OneDrive\\Desktop\\TriangleTracker\\triangletrackercsharp\\TriangleTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

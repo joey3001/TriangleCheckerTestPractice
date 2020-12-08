@@ -20,7 +20,7 @@ public class Program
 
     Triangle newTriangle = new Triangle(firstLength, secondLength, thirdLength); 
     string result = ""; 
-    result = newTriangle.triangleCheck();
+    result = newTriangle.TriangleCheck();
     Console.WriteLine(result);
   }
 }

@@ -14,7 +14,7 @@ namespace TriangleTracker
       SideThree = sideThree;
     }
 
-    public string triangleCheck() 
+    public string TriangleCheck() 
     {
       if (SideOne + SideTwo <= SideThree || SideTwo + SideThree <= SideOne || SideThree + SideOne <= SideTwo) {
         return "Not a Triangle"; 
