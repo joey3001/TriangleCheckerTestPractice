@@ -14,15 +14,15 @@ namespace TriangleTracker
       SideThree = sideThree;
     }
 
-    public string triangleCheck(int sideOne, int sideTwo, int sideThree) 
+    public string triangleCheck() 
     {
-      if (sideOne + sideTwo < sideThree || sideTwo + sideThree < sideOne || sideThree + sideOne < sideTwo) {
+      if (SideOne + SideTwo <= SideThree || SideTwo + SideThree <= SideOne || SideThree + SideOne <= SideTwo) {
         return "Not a Triangle"; 
       }
-      else if (sideOne == sideTwo && sideOne == sideThree) {
+      else if (SideOne == SideTwo && SideOne == SideThree) {
         return "Equilateral";
       }
-      else if (sideOne == sideTwo || sideTwo == sideThree || sideOne == sideThree) {
+      else if (SideOne == SideTwo || SideTwo == SideThree || SideOne == SideThree) {
         return "Isoscoles";
       }
       else {

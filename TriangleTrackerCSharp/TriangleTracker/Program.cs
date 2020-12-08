@@ -18,9 +18,9 @@ public class Program
     Input = Console.ReadLine(); 
     int thirdLength = int.Parse(Input);
 
-    Triangle newTriangle = new Triangle(1,1,2); 
+    Triangle newTriangle = new Triangle(firstLength, secondLength, thirdLength); 
     string result = ""; 
-    result = newTriangle.triangleCheck(firstLength ,secondLength, thirdLength);
+    result = newTriangle.triangleCheck();
     Console.WriteLine(result);
   }
 }
