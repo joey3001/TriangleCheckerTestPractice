@@ -1,0 +1,17 @@
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\triangletracker.tests.deps.json
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\triangletracker.tests.runtimeconfig.json
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\triangletracker.tests.runtimeconfig.dev.json
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\triangletracker.tests.dll
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\triangletracker.tests.pdb
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\obj\Debug\netcoreapp2.2\triangletracker.tests.csprojAssemblyReference.cache
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\obj\Debug\netcoreapp2.2\triangletracker.tests.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\obj\Debug\netcoreapp2.2\triangletracker.tests.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\obj\Debug\netcoreapp2.2\triangletracker.tests.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\obj\Debug\netcoreapp2.2\triangletracker.tests.dll
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\obj\Debug\netcoreapp2.2\triangletracker.tests.pdb
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\TriangleTracker.dll
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\bin\Debug\netcoreapp2.2\TriangleTracker.pdb
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\triangletracker.tests\obj\Debug\netcoreapp2.2\triangletracker.tests.csproj.CopyComplete

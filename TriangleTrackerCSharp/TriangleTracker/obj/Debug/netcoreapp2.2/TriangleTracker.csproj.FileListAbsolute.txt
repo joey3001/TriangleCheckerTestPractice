@@ -1,0 +1,11 @@
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.csprojAssemblyReference.cache
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.AssemblyInfoInputs.cache
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.AssemblyInfo.cs
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.deps.json
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.runtimeconfig.json
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.runtimeconfig.dev.json
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.dll
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\bin\Debug\netcoreapp2.2\TriangleTracker.pdb
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.dll
+C:\Users\josep\OneDrive\Desktop\TriangleTracker\triangletrackercsharp\TriangleTracker\obj\Debug\netcoreapp2.2\TriangleTracker.pdb
